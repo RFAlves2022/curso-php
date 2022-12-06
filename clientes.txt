@@ -1,7 +1,0 @@
-Guto	36
-Renata	30
-Rafael	20
-Paulo	32
-Julia	19
-Gabriel	21
-Ana	18
