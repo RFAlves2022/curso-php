@@ -6,7 +6,7 @@
 4. Faça um programa que leia a idade de uma pessoa e informe se ela é maior ou menor de 18 anos. Dica: você vai precisar criar um formulário HTML.
 5. Faça um programa que leia um número informado pelo usuário e construa a tabuada desse número. Dica: você vai precisar criar um formulário HTML.
 --- 
-6. Crie um programa que crie um arquivo texto chamado "fornecedores.txt" com os dados abaixo. No arquivo texto deve ser apresentado os de cada fornecedor em linhas diferente. 
+6. Crie um programa que crie um arquivo texto chamado "fornecedores.txt" com os dados abaixo. No arquivo texto deve ser apresentado os dados de cada fornecedor em linhas diferente. 
 ```php
 $data = [
     [
@@ -36,8 +36,9 @@ $data = [
     ]
 ];
 ```
-7. Modifique o programa anterior para que entre cada informações dos fornecedores possua um "TAB".
-8. Crie um programa que leia os dados dos fornecedores e apresentem em uma tabela.
+7. Modifique o programa anterior para que entre cada uma das informações dos fornecedores possua um "TAB".
+8. Crie um programa que leia os dados dos fornecedores e apresente em uma tabela.
 9. Aplique o bootstrap na tabela criada no exercícios anterior.
 10. Crie um programa que crie um arquivo texto chamado "contatos.txt" com os dados contidos no arquivo "dados.txt". No arquivo texto deve ser apresentado os dados de cada fornecedor em linhas diferente. Separe cada informação com um "tab".
 11. Crie um programa que leia os dados dos contatos e apresente em uma tabela.
+12. Crie um programa aonde você tenha um formulário para cadastrar o nome e e-mail de uma pessoa. As informações devem ser armazenadas em um arquivo de texto chamado "estudantes.txt" seu programa deve conter uma tela para exibir os cadastros dos alunos à partir da leitura desse arquivo texto.
